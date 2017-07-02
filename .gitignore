@@ -88,10 +88,6 @@ ENV/
 # Rope project settings
 .ropeproject
 
-# ZettelGeist Ignores
-data/
-zettels.db
-
 # OS X Junk
 .DS_Store
 
